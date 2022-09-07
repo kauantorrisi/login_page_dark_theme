@@ -151,4 +151,11 @@ main {
   .img-login {
     width: 30vw;
   }
+
+  .storyset {
+    background: transparent;
+  font-size: 6px;
+  text-decoration: none;
+  color: #00ff88;
+  }
 }
